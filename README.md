@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Lisa Dong
 
-**Due date:** _\<date\>_
+**Due date:** 2/20/16
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+complete assignments 1.3 1.6 and 1.9 from the textbook
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned how to fix bugs in coding - naming variables, inserting comments, importing math functions, doing math operations correctly , etc. In addition, i learned how to upload files from my desktop onto my github repository
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Lisa Dong
